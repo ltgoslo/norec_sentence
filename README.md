@@ -42,9 +42,16 @@ The data is distributed under a Creative Commons Attribution-NonCommercial licen
 The licence is motivated by the need to block the possibility of third parties redistributing the orignal reviews for commercial purposes. Note that **machine learned models**, extracted **lexicons**, **embeddings**, and similar resources that are created on the basis of NoReC are not considered to contain the original data and so **can be freely used also for commercial purposes** despite the non-commercial condition.
 
 ## Cite
-If you use this dataset, please cite the following paper:
+If you use this dataset, please cite the following papers:
 
 ```
+@InProceedings{KutBarVel21,
+  author = {Andrey Kutuzov and Jeremy Barnes and Erik Velldal and Lilja {\O}vrelid and Stephan Oepen}, 
+  title = {Large-Scale Contextualized Language Modeling for Norwegian},
+  booktitle = {{Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021)}},
+  year = 2021
+}
+
 @InProceedings{OvrMaeBar20,
   author = {Lilja {\O}vrelid and Petter M{\ae}hlum and Jeremy Barnes and Erik Velldal},
   title = {A Fine-grained Sentiment Dataset for {N}orwegian},
