@@ -47,7 +47,7 @@ If you use this dataset, please cite the following papers:
 ```
 @InProceedings{KutBarVel21,
   author = {Andrey Kutuzov and Jeremy Barnes and Erik Velldal and Lilja {\O}vrelid and Stephan Oepen}, 
-  title = {Large-Scale Contextualized Language Modeling for Norwegian},
+  title = {Large-Scale Contextualised Language Modelling for Norwegian},
   booktitle = {{Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa 2021)}},
   year = 2021
 }
